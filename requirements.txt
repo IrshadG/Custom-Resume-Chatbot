@@ -1,0 +1,5 @@
+chromadb==0.4.24
+pyautogen==0.2.16
+streamlit==1.27.2
+torch==2.2.0+cu118
+transformers==4.38.2
